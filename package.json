@@ -1,5 +1,5 @@
 {
-  "name": "@WassimBenzarti/fastify-mongoose",
+  "name": "@wassimbenzarti/fastify-mongoose",
   "version": "0.3.1",
   "description": "Fastify Mongoose connection plugin",
   "main": "index.js",
