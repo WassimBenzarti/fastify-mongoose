@@ -3,6 +3,7 @@
   "version": "0.3.1",
   "description": "Fastify Mongoose connection plugin",
   "main": "index.js",
+  "private": false,
   "scripts": {
     "format": "standard --fix",
     "test": "standard & tap test.js",
@@ -10,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:WassimBenzarti/fastify-mongoose.git"
+    "url": "git+ssh://git@github.com/WassimBenzarti/fastify-mongoose.git"
   },
   "keywords": [
     "fastify",
@@ -35,7 +36,7 @@
   "dependencies": {
     "fastify-plugin": "^1.6.0"
   },
-  "peerDependencies":{
+  "peerDependencies": {
     "mongoose": "5.x"
   },
   "engines": {
