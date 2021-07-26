@@ -20,7 +20,7 @@
     "database",
     "connection"
   ],
-  "author": "Muhammad Ahmed <mahmed8003@gmail.com>",
+  "author": "Wassim Benzarti <wass11121996@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/WassimBenzarti/fastify-mongoose/issues"
