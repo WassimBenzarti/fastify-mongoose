@@ -6,6 +6,8 @@ name: Test & Publish Node.js Package
 on:
   release:
     types: [created]
+  push:
+    branches: [master]
 
 jobs:
   build:
