@@ -29,11 +29,11 @@
   "devDependencies": {
     "fastify": "^2.11.0",
     "standard": "^14.3.1",
-    "tap": "^14.10.2"
+    "tap": "^14.10.2",
+    "mongoose": "^5.7.14"
   },
   "dependencies": {
-    "fastify-plugin": "^1.6.0",
-    "mongoose": "^5.7.14"
+    "fastify-plugin": "^1.6.0"
   },
   "peerDependencies":{
     "mongoose": "5.x"
